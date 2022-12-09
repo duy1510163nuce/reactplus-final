@@ -1,0 +1,95 @@
+.user-container{
+    height: 100vh;
+    background-color: #fff;
+}
+.user-banner{
+    width: 100%;
+    padding-top: 12%;
+    text-align: center;
+    height: 307px;
+    background-color:rgba(244, 194, 127, 0.67) ;
+
+}
+.user-img-banner{
+    width: 30%;
+    margin: 0 35%;
+}
+.user-name{
+    margin-top: 12px;
+    font-size:20px;
+    font-weight: 500;
+}
+.user-tagname{
+    color:#D8605B;
+    font-size:14px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.user-btn-logout{
+    background-color: #F4C27F;
+    color: #000;
+    border-radius: 50px;
+    border: 1px solid rgba(244, 194, 127, 0.67);
+    text-decoration: none;
+    display: block;
+    width: 30%;
+    margin: 0 35%;
+    height: 10%;
+}
+.user-clock{
+    background-color: #fff;
+    text-align: center;
+    height: 200px;
+}
+.user-img-clock{
+    margin-top:4%;
+}
+.user-title{
+    font-size:15px;
+    font-weight: 600;
+}
+.user-todo{
+    background-color: #fff;
+    
+}
+.todo-title{
+    margin-left: 26px;
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 600;
+}
+.user-todoList{
+    margin: 25px;   
+    border: 1px solid #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.25);
+}
+.todoList-header{
+    display:flex;
+    margin-top: 26px;
+}
+.todoList-title{
+    margin-left: 19px;
+    
+    font-size: 14px;
+    line-height: 16px;
+}
+.user-img-add{
+    margin-left:62%;
+}
+.list-nav{
+    list-style: none;
+    margin-left: 19px; 
+    margin-top: 26px;
+    overflow-y: auto;
+    height: 140px;
+}
+.nav-item{
+    display: flex;
+    margin: 17px 0;
+}
+.btn-check{
+    margin-right: 12px;
+}
+.todo-name {
+    margin-right:10px;
+}
